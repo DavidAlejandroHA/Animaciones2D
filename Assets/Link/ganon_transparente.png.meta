@@ -1,0 +1,3977 @@
+fileFormatVersion: 2
+guid: 10f5e89800ce3e74388901a4b3ea9434
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ganon_transparente_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 939
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36203ef83f4ca4c8f73f7bb107f69c
+      internalID: -1991118560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 939
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e82e5fb8f64fe842a6a92a97635cb7c
+      internalID: -1771537912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 939
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bfc6a3cfaecbc4eafcd8dd98b320a6
+      internalID: -1519418363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 939
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d657049a5d08a4490a298004f49313
+      internalID: 2087111964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 939
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ca3ecbf27dde4c88ebf232b02c468
+      internalID: -1320343442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 939
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb0294b14017534c9e6345c82d47ce7
+      internalID: 1109285244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 939
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6b33fb9b3b4a94aa48d9c78a7152b4
+      internalID: -1639194793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 939
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d147311ce9b126249a6a75a5cd028411
+      internalID: -685661386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 871
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2b4bfed7c62e4e941714ddc62df10
+      internalID: 1710098441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 857
+        width: 130
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7ebb05bd7b194bbfd57d6cd2d7f69
+      internalID: -1014625265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 859
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b2ffb2337834249a923797cb0cb2a9
+      internalID: -568412725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 859
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af29a6487610b724f893663780094431
+      internalID: -2082874546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 859
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc9a3637427464f93b92dcee442282
+      internalID: 669038492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 859
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200df93e5a06274ea047752b76e2ff9
+      internalID: 415138421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 859
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef12c5e9b368324c9bae8fa6081f969
+      internalID: 282449067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 859
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d44bbee28c637f43a081392c2bb8330
+      internalID: 1646592281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 859
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac9ab6c4f00124da7b79b88543dbf5
+      internalID: 424536906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 859
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a220069cab774b9469e645e20019d56e
+      internalID: 1457057110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_18
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 856
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb67646200425f48b10310b328a762b
+      internalID: 1407764225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 779
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f72777fbb17a0d4b977f3a919168268
+      internalID: 2064007400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 779
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd4c27f41dd8374a8454ad29fa2f4b6
+      internalID: -1918074008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 780
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfc78c0c469bd34f8fe561fc3c38555
+      internalID: -1091493879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 779
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53c0d37719411541997a430982afdd9
+      internalID: 839625384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 779
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c1b277d51cbc4ab00678220836549
+      internalID: 1792489292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 779
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6240f868f89eb8c44801cd48186b8491
+      internalID: 1998708948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 779
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787560d1da6efb942a3e6c55f100ed8e
+      internalID: 1205489971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 779
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b2b0292d60bc48865287993e9c02b
+      internalID: 123959037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 719
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4cf233ad3aa2544a44ff12c32dbe71
+      internalID: 1470942919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_28
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 719
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6406498ea942468846ebec981d803
+      internalID: 583968627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 699
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d6c8fcb0f1354e9712908f3d4aeff
+      internalID: -1686547841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 699
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4053b85243c2a041b83a46ec06dca90
+      internalID: -2031104825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_31
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 699
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c4693d61e68e4ab8696aa2e344004
+      internalID: 856415757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 699
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148984d28104ef442b9095dc23c7eb84
+      internalID: -1096110283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 699
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7021a45ea0cd458eddbdb1e429e64
+      internalID: -342556900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_34
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 699
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff90f56c631fb5478f4957c41972320
+      internalID: -668896726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 699
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1cdbc626ba8f4f87bf83a8cb2170f
+      internalID: -837520232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_36
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 699
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d025711fe847844d8d1bf7233e0bb04
+      internalID: -24969597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 619
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5735fb2c1970e42ba6321d54d4f8bc
+      internalID: 415045481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 619
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac73a3d7c97524d8cec43b1534eda9
+      internalID: 2015882917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 619
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3845e57d9afa5304a80ba62c63eee1a0
+      internalID: 1976701370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 619
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a1227b06e58640813bc0b6713b600
+      internalID: -763436409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 619
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d19a26f1daa3a4f93bc38399cba216
+      internalID: 1766939919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 619
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe0ac25349df374ab6199dae8e28d0e
+      internalID: -2113507318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 619
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906c4673d01065469bcd21ba7a40ab0
+      internalID: -90500307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_44
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 619
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50901eca0059d34bae26116367caae2
+      internalID: 611734417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_45
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 551
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543848c93285b62418d1e5554a6b5437
+      internalID: 1869151451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_46
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 552
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fb169a30a0ce6469adca6d1972daee
+      internalID: 956216839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 539
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b18b79cf89f04e9975bc084add260
+      internalID: -1219876390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 539
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359fabc04ec43c47884ab04103c2838
+      internalID: -4720010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 539
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e13dd70a42f6645bce262378b78574
+      internalID: 642485049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 539
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcdd156885988546b47d2749f2a3fd1
+      internalID: 1831586210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 539
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8babf30c124dd0148af8f56bb8e6e737
+      internalID: 2123533218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 539
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b73c58b80323409ee5f36d8131a4e
+      internalID: -165608539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 539
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10206c4a24289041bde59f974f6aa5c
+      internalID: -606548370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 539
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28b045421bd3240a0d72bf890444d3
+      internalID: -580130655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30a05a91cc47e4a976da135e87688a
+      internalID: -193344242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_56
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 415
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8fcbb17fe58d42a7219b8a07f1343
+      internalID: -1054326708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 512
+        width: 65
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ef77fe5e87a74387928a811257f21
+      internalID: 840822663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 513
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce91e383bf8757d4585fb9bb4ccf4efa
+      internalID: -2141320702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 514
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2398b78c725654a9b61355150d1535
+      internalID: 1061515673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_60
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 467
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980020e1488b7547adea40fe55b837c
+      internalID: 1585451437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_61
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 511
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e34da8a2f3691548bce6deface11384
+      internalID: -1103628792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 512
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7faff7549c3840b15c3562cccb07c
+      internalID: -818692012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 512
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03787e7bb4bebc54c9a7e5df7163b7b6
+      internalID: 1736259856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_64
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 512
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061f64632d8c288468596414cf273907
+      internalID: 435199840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 462
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe81ee950961f240a6e212628303137
+      internalID: -422388198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 462
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458877ae757022429d82f0edb79a572
+      internalID: -583732520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 462
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be19db8c768c5c4c963a1964aad5062
+      internalID: -1810303199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 467
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5a968bcd55484497be3b232cba03c
+      internalID: 20506446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 467
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda779fe57a16534dadb2f50ea2814c3
+      internalID: 299129052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 463
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbde4d153d212147a7ed6277fbdbcf1
+      internalID: -134311875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 478
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ef21c1c9a4b1d46beaba9e7865d4ae
+      internalID: -1430863060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_72
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 473
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfa4c966ac732645a5e177433365ece
+      internalID: 866856204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 406
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c28009c951614184bda855049c80a
+      internalID: -1614461619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 406
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0f1afaa95c1a2439367d02396a60ee
+      internalID: -1618258421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 406
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcfaaf4d17884444828bd7b144e3875
+      internalID: -1168339266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_76
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 420
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a0220d369e2a94c9c0e0978fa8c947
+      internalID: -2061632849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 420
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ceb955a320b2b4e84a636ea0c012b7
+      internalID: -888461703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_78
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 420
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d513175b3b48845925605efd482b59
+      internalID: -693230372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 420
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9e468e98399e4686971e2cfe57bbd
+      internalID: 1119479888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_80
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 419
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c076361ba8464d4f8dcb574b20c0345
+      internalID: -1747226179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_81
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 419
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347feb3ab0587a84997d091db79ad29e
+      internalID: 1799116506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_82
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 370
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730d04ef7b38bad47bfacea4c90eb195
+      internalID: -1254523613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_83
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 370
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d3185e90a4bc4bafcfb270b1413c4
+      internalID: 192650733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_84
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 370
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df26f08cfc0f7541896c5aad5e87053
+      internalID: -907536148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_85
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 396
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fbdf3d7e018f2488f498f756e68186
+      internalID: -1405977267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_86
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257bf3acb1882f543aab0716667a157a
+      internalID: 1130660768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_87
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221a9c6ed4873e41b7294fac8f43aed
+      internalID: -1890904982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_88
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 351
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2791f409a1315fe4c8dfb0cb3cb9b04f
+      internalID: 905203631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 345
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6fb67c0e19fb94fb8f48ddc661c93c
+      internalID: 2001364168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 345
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783c9066d3e02542901927c824c0386
+      internalID: 1953210896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_91
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 345
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f6aa66cc4b9e94287aada2fe17d703
+      internalID: 1765979176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_92
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 342
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49282a61ddbfe445b4b146d38d61fd3
+      internalID: 1386537488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_93
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 367
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc373123789b8f48a400a8a5d4634c7
+      internalID: 312769614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_94
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 367
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea3bcdba0766940b127a32d721b7b7
+      internalID: -1062118663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_95
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 368
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6379e4a42cce44fa86c6bc22e8fdf4
+      internalID: 1364433492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_96
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 367
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9f0d24f4538c84fa352ddc301b5e3f
+      internalID: -1346849056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 325
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb61f491b105945b43af672ac2dd0f
+      internalID: -1421687157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_98
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 325
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c233829a462c048a0f58c0d71a1406
+      internalID: 357869265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_99
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 325
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b2430fc5912e499919bb85624525a
+      internalID: -1721009941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_100
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 343
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80190a300d029a948923b01c7444e359
+      internalID: 1943326087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_101
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 343
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abba364f4559d34a90d0637931327af
+      internalID: 639058149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_102
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 343
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950a2b875674b604988f0de98f07b1da
+      internalID: 1383052077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_103
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 343
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5766e1e7e19cd4eb28aad76dbd3289
+      internalID: 1142588615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_104
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 295
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c66c6d3556601d4eba30851d1e0daef
+      internalID: -1078106827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 295
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5557695ca35a4d86636da58e5087b
+      internalID: -129532247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_106
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 295
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3116e2effb4349bf8b8b0a15d48f2
+      internalID: -215963933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_107
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 289
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d198656b0db6544988153c55585f915
+      internalID: -1808415360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_108
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 289
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6aff984fc201846b6a3b8349d089ec
+      internalID: -1606702665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 289
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e88ada6034ab4ba28980869aab8c0
+      internalID: -2140112157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_110
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 315
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83d39f042f887448c7097fd5b7d936
+      internalID: -85848779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_111
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 315
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d50467a1c05c4c8ce3d221f919704
+      internalID: -1027106073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_112
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 312
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8756d465d627b4296511c15bf600a5
+      internalID: 1776525640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_113
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 313
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d592b28d8f94543a41193a925ddecd
+      internalID: 1098225003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_114
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 315
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a741bf77b320224e9384d85be841559
+      internalID: 1950819511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_115
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 315
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6738e6b3103454c8a55222c0e1e619
+      internalID: 286631485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_116
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 315
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5d23c95a73414fbe26af9257e25c7
+      internalID: 222393862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_117
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 263
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e94394b64f57ba459926b51b5ff1916
+      internalID: -881147038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_118
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 287
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2d573b5e89734bb198b05c5890081
+      internalID: 774979657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_119
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 274
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e0cd6c157f94429a981559536a7b4
+      internalID: -359603024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_120
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 290
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac16d0582ada94fb20f89833bc3711
+      internalID: -550479978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_121
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 288
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c611228aa17f54c87a6b56abf7574b
+      internalID: 870523144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_122
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 290
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8874ee1151896d8459c0b5871701cd14
+      internalID: 362822957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_123
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 288
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fcf1434dd7874cb8b79114a2ae2e7
+      internalID: 1833634902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_124
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 270
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63802694d7d6cc4fb469a06ed7244bd
+      internalID: -757745259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 232
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793c29c8f164704aa8f31ad68013695
+      internalID: 1122538235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_126
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 234
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e73f8a3a30095548b6b9dbeb4517b58
+      internalID: 1849868784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_127
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 219
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5f6f4fe5f4ef40988c9507f93a223
+      internalID: -939020309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_128
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 219
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f77b8d13838f543801429279ab5a44
+      internalID: 1880892460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 219
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e514f96c7b92394abe698bcb2b2b165
+      internalID: 1139673544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_130
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 154
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353c5d1a741e0e4798ad2138b66355c
+      internalID: -2051802150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_131
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 191
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f10f4e1c438a41818483cea418e23
+      internalID: 475036155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_132
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 231
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf6f379590f6384eb3413dc8bbcd134
+      internalID: 68109735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_133
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 232
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3da5880effb6044bafeb071a59b82b
+      internalID: 647475879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_134
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 232
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016a46f2518f244b93a32731b0ae28f
+      internalID: 431403686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_135
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 199
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8ef2a72873434abb1eb409b7cb716
+      internalID: -297467775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_136
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 199
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ed3bb5eb3d7c469f68431893d5407
+      internalID: -1231771266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_137
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 183
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7cab6e0a71d646be301f894308416
+      internalID: -1275686728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 183
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed471e476e9e941aef8376d18444dd
+      internalID: 115588141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_139
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 183
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b96fcdbd3eb914aa5c3c19f8c15e0d
+      internalID: 257420642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_140
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 189
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4adff066b7426d43bc1f5fc1ff13a71
+      internalID: -1828153562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_141
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 189
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbce9d8faccb2bf4898b692f7eb1a4dd
+      internalID: 1921399538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_142
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 189
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4e98f09bb6f644bb0e123a8e57fa6d
+      internalID: -1882635166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_143
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 191
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4f87f8549b524c8ab0b7db0ef335b
+      internalID: -1077600100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_144
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 191
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed2bdc09e47834fa976f90227757e6
+      internalID: -877541654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_145
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 192
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5f0eaedc9fef409b298cead894428
+      internalID: 1687081310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_146
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359043656b2e9e74fa0028fce298c8a9
+      internalID: -1990198892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_147
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a86186be4e16c44a55bf8bd3d3465d
+      internalID: 513523625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_148
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 158
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9a197069093a8429028079b9db8ef7
+      internalID: -1892847832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 127
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbe0309d5ee7b5438be94a9911c699d
+      internalID: 1801733617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_150
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201770ba5fc8a2409404152e0888dfb
+      internalID: 2068089184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_151
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 127
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a2cb106e10b554ba47d2ac48af550e
+      internalID: -708361635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_152
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 136
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ac22af59a17341be425aa42916262
+      internalID: 208156845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_153
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 136
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455302fa62779646ad2e08be48f3751
+      internalID: -1951482118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_154
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 136
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa5ce7ceaa3f442a0e5d10a0064c20
+      internalID: -455427137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 151
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4591eb12adaf64843bc00c6553f09709
+      internalID: 839662980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_156
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 153
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e1049a8566b44dabf0e54c401df7d
+      internalID: 809744040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_157
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 154
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1b1dbdd7c39164db128d33055a237f
+      internalID: -1599007488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_158
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 52
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e10c3615d742d45a3096c9f0414c9c
+      internalID: 1506181996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_159
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 139
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859c402954a38242a4a220119c8a728
+      internalID: 985404923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_160
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d12a2d03cd9c04b962fded6062698c
+      internalID: -1710398886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_161
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 71
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b714921768bbb0b4fac15186f1853310
+      internalID: 855680349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_162
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3293886166659534084678a0382d3f57
+      internalID: -795019574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_163
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 90
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ec77e7837cfc640b6aab1b5fca1bd2
+      internalID: -1574888018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_164
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 91
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cfde1aa2a84fb4084a20e0be059792
+      internalID: 1901090438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_165
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 65
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575095b60a69fd4ca5f68ab95b7c33f
+      internalID: 188639515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_166
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 110
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30fc788d28b0b49a3401c450ef0db6
+      internalID: 860267921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_167
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 58
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3368d89f4c38c7444987a68512cf51c8
+      internalID: -1491480090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_168
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8570f3aeeb3d42bcdc6e689b1fb2c
+      internalID: 811121715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_169
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 58
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851dd366a08d58a42a804537423310aa
+      internalID: 1012899180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 91
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df63fe9293c63ac439a8db4e267176c0
+      internalID: 594651445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_171
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd83a09f82a740e4994446e15eb9e87a
+      internalID: 2034092683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_172
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0edcce6d62af454cad230a9f898891e
+      internalID: 633401297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd75d8bf32aff4f97c5ddf228ea7db
+      internalID: 1572633491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ganon_transparente_174
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c2ed11922370c4a806918af6234067
+      internalID: -1950074833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ganon_transparente_0: -1991118560
+      ganon_transparente_1: -1771537912
+      ganon_transparente_10: -568412725
+      ganon_transparente_100: 1943326087
+      ganon_transparente_101: 639058149
+      ganon_transparente_102: 1383052077
+      ganon_transparente_103: 1142588615
+      ganon_transparente_104: -1078106827
+      ganon_transparente_105: -129532247
+      ganon_transparente_106: -215963933
+      ganon_transparente_107: -1808415360
+      ganon_transparente_108: -1606702665
+      ganon_transparente_109: -2140112157
+      ganon_transparente_11: -2082874546
+      ganon_transparente_110: -85848779
+      ganon_transparente_111: -1027106073
+      ganon_transparente_112: 1776525640
+      ganon_transparente_113: 1098225003
+      ganon_transparente_114: 1950819511
+      ganon_transparente_115: 286631485
+      ganon_transparente_116: 222393862
+      ganon_transparente_117: -881147038
+      ganon_transparente_118: 774979657
+      ganon_transparente_119: -359603024
+      ganon_transparente_12: 669038492
+      ganon_transparente_120: -550479978
+      ganon_transparente_121: 870523144
+      ganon_transparente_122: 362822957
+      ganon_transparente_123: 1833634902
+      ganon_transparente_124: -757745259
+      ganon_transparente_125: 1122538235
+      ganon_transparente_126: 1849868784
+      ganon_transparente_127: -939020309
+      ganon_transparente_128: 1880892460
+      ganon_transparente_129: 1139673544
+      ganon_transparente_13: 415138421
+      ganon_transparente_130: -2051802150
+      ganon_transparente_131: 475036155
+      ganon_transparente_132: 68109735
+      ganon_transparente_133: 647475879
+      ganon_transparente_134: 431403686
+      ganon_transparente_135: -297467775
+      ganon_transparente_136: -1231771266
+      ganon_transparente_137: -1275686728
+      ganon_transparente_138: 115588141
+      ganon_transparente_139: 257420642
+      ganon_transparente_14: 282449067
+      ganon_transparente_140: -1828153562
+      ganon_transparente_141: 1921399538
+      ganon_transparente_142: -1882635166
+      ganon_transparente_143: -1077600100
+      ganon_transparente_144: -877541654
+      ganon_transparente_145: 1687081310
+      ganon_transparente_146: -1990198892
+      ganon_transparente_147: 513523625
+      ganon_transparente_148: -1892847832
+      ganon_transparente_149: 1801733617
+      ganon_transparente_15: 1646592281
+      ganon_transparente_150: 2068089184
+      ganon_transparente_151: -708361635
+      ganon_transparente_152: 208156845
+      ganon_transparente_153: -1951482118
+      ganon_transparente_154: -455427137
+      ganon_transparente_155: 839662980
+      ganon_transparente_156: 809744040
+      ganon_transparente_157: -1599007488
+      ganon_transparente_158: 1506181996
+      ganon_transparente_159: 985404923
+      ganon_transparente_16: 424536906
+      ganon_transparente_160: -1710398886
+      ganon_transparente_161: 855680349
+      ganon_transparente_162: -795019574
+      ganon_transparente_163: -1574888018
+      ganon_transparente_164: 1901090438
+      ganon_transparente_165: 188639515
+      ganon_transparente_166: 860267921
+      ganon_transparente_167: -1491480090
+      ganon_transparente_168: 811121715
+      ganon_transparente_169: 1012899180
+      ganon_transparente_17: 1457057110
+      ganon_transparente_170: 594651445
+      ganon_transparente_171: 2034092683
+      ganon_transparente_172: 633401297
+      ganon_transparente_173: 1572633491
+      ganon_transparente_174: -1950074833
+      ganon_transparente_18: 1407764225
+      ganon_transparente_19: 2064007400
+      ganon_transparente_2: -1519418363
+      ganon_transparente_20: -1918074008
+      ganon_transparente_21: -1091493879
+      ganon_transparente_22: 839625384
+      ganon_transparente_23: 1792489292
+      ganon_transparente_24: 1998708948
+      ganon_transparente_25: 1205489971
+      ganon_transparente_26: 123959037
+      ganon_transparente_27: 1470942919
+      ganon_transparente_28: 583968627
+      ganon_transparente_29: -1686547841
+      ganon_transparente_3: 2087111964
+      ganon_transparente_30: -2031104825
+      ganon_transparente_31: 856415757
+      ganon_transparente_32: -1096110283
+      ganon_transparente_33: -342556900
+      ganon_transparente_34: -668896726
+      ganon_transparente_35: -837520232
+      ganon_transparente_36: -24969597
+      ganon_transparente_37: 415045481
+      ganon_transparente_38: 2015882917
+      ganon_transparente_39: 1976701370
+      ganon_transparente_4: -1320343442
+      ganon_transparente_40: -763436409
+      ganon_transparente_41: 1766939919
+      ganon_transparente_42: -2113507318
+      ganon_transparente_43: -90500307
+      ganon_transparente_44: 611734417
+      ganon_transparente_45: 1869151451
+      ganon_transparente_46: 956216839
+      ganon_transparente_47: -1219876390
+      ganon_transparente_48: -4720010
+      ganon_transparente_49: 642485049
+      ganon_transparente_5: 1109285244
+      ganon_transparente_50: 1831586210
+      ganon_transparente_51: 2123533218
+      ganon_transparente_52: -165608539
+      ganon_transparente_53: -606548370
+      ganon_transparente_54: -580130655
+      ganon_transparente_55: -193344242
+      ganon_transparente_56: -1054326708
+      ganon_transparente_57: 840822663
+      ganon_transparente_58: -2141320702
+      ganon_transparente_59: 1061515673
+      ganon_transparente_6: -1639194793
+      ganon_transparente_60: 1585451437
+      ganon_transparente_61: -1103628792
+      ganon_transparente_62: -818692012
+      ganon_transparente_63: 1736259856
+      ganon_transparente_64: 435199840
+      ganon_transparente_65: -422388198
+      ganon_transparente_66: -583732520
+      ganon_transparente_67: -1810303199
+      ganon_transparente_68: 20506446
+      ganon_transparente_69: 299129052
+      ganon_transparente_7: -685661386
+      ganon_transparente_70: -134311875
+      ganon_transparente_71: -1430863060
+      ganon_transparente_72: 866856204
+      ganon_transparente_73: -1614461619
+      ganon_transparente_74: -1618258421
+      ganon_transparente_75: -1168339266
+      ganon_transparente_76: -2061632849
+      ganon_transparente_77: -888461703
+      ganon_transparente_78: -693230372
+      ganon_transparente_79: 1119479888
+      ganon_transparente_8: 1710098441
+      ganon_transparente_80: -1747226179
+      ganon_transparente_81: 1799116506
+      ganon_transparente_82: -1254523613
+      ganon_transparente_83: 192650733
+      ganon_transparente_84: -907536148
+      ganon_transparente_85: -1405977267
+      ganon_transparente_86: 1130660768
+      ganon_transparente_87: -1890904982
+      ganon_transparente_88: 905203631
+      ganon_transparente_89: 2001364168
+      ganon_transparente_9: -1014625265
+      ganon_transparente_90: 1953210896
+      ganon_transparente_91: 1765979176
+      ganon_transparente_92: 1386537488
+      ganon_transparente_93: 312769614
+      ganon_transparente_94: -1062118663
+      ganon_transparente_95: 1364433492
+      ganon_transparente_96: -1346849056
+      ganon_transparente_97: -1421687157
+      ganon_transparente_98: 357869265
+      ganon_transparente_99: -1721009941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

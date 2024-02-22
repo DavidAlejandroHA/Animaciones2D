@@ -1,0 +1,5649 @@
+fileFormatVersion: 2
+guid: 6fbb7d80a39f6634dbcf3c0f2993abd0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Link-LTTP_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0404452b04b75624ab9781cc9ac91f43
+      internalID: -1480019493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7903841756fa6274a9a1795641a6000d
+      internalID: -1891330968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 358
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29dcba53223a444ba0e590c50a2cf4e
+      internalID: -611626517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f5622d3d064e45aab6cb23e6fc083
+      internalID: -1731448750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0678fee7fb1e64ea135318d5db51a3
+      internalID: -2073164632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 358
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca043248930707d42a1f349fd9b9da4d
+      internalID: 1058195098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 358
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a5021282552249a5a60cefe2e6068
+      internalID: -33070497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a1ba97446bdb744bc0afe51f06ab32
+      internalID: 1568285670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 358
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914947d86d602b64781bbd733e8d2306
+      internalID: 1371432147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 358
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7dac8b7927ea4c8499b2f6558bfe7
+      internalID: 913609413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e8ef7e23160624ba66be04283a667c
+      internalID: -909957645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 358
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91869d3320c087438d301f6318c5963
+      internalID: -1811899120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 358
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa62deb745ae7364c99f212d98997b7a
+      internalID: -210768926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 358
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abacb03aec3108c449831abeb367b920
+      internalID: 1760029443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 358
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2cddd55ba80914ebf317e922e23320
+      internalID: -1579077350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 358
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76cbdba0e3c854fb516dcc59f51ae2
+      internalID: 2097403844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 358
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc4616845e163a439da07fc3aa21678
+      internalID: 1570316550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 351
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5fc07f958ba3c419989b22923b153f
+      internalID: -1712317758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 351
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb548f80c0226649bcc41c130f6c851
+      internalID: -646299056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_19
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 350
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b97147d52b479488e01c0c6c5eb35a
+      internalID: -954680069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 351
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a5e1a3fd1f064fb8a7217e1fe6422
+      internalID: -1776425258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 351
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9226b91963683428a69d6bd36962a2
+      internalID: -1466397029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_22
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 343
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b540bfb7b7934b928df5322451bfb
+      internalID: -700407282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_23
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0196263e8919e440b93d0291cb3c56c
+      internalID: -1671051580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b24123567f704f8b2151dfe6123e0
+      internalID: 1655474749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_25
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 351
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d101639e254ef40b4e90ea1395f8cc
+      internalID: 913381514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0e8aa85a65936438702d1de629a211
+      internalID: 1726988724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_27
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 351
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c56b9fcc1610a419a147f298cb5e15
+      internalID: -911789997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_28
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 351
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086b01f05dfa644c8018ffe33c6ff1e
+      internalID: 985073888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42da7743a89f842bff65a50cc9db63
+      internalID: 160848461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58312e64bf62242b0763f8df4fd237
+      internalID: -1672953333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc138462c623824e86bf9074b78e6c1
+      internalID: 1650449675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 314
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395eafe130aad204f93b4c09f44b6ca1
+      internalID: -370853776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbba26213fc60cd42b3bd8ae6028eb66
+      internalID: 1418072656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7f1edf03fa7847b206f97ea5ef25a
+      internalID: 1789287399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 314
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94d8ac19f10d145810108e91608396
+      internalID: -1458027003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab25fc70428f504cbaa0f4d87e53be8
+      internalID: 1280963365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 314
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625211610ed581b49b53bb38f50600ba
+      internalID: -1144236772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_38
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e8f3389dfe63f4fa82412fe8b6a29b
+      internalID: -1749880663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d48707ec477f49ab675432f13d22c
+      internalID: -347079824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e939bb39c8a4ca498f53fba47f53e5c
+      internalID: -797840764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_41
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886b77992c8caf489a9851fa631ac3d
+      internalID: 645126094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a03b8a16fe12cb48a512b13fd1e8f4c
+      internalID: -963227991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 314
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1ef1dccdd4604cb5f9ffc6b04deb0
+      internalID: -457253257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 314
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305e384f74ca845bbbb2e0f089d936
+      internalID: 984912684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 314
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274a7a4d6cc9fe447a018b823c74fbc2
+      internalID: 1039739580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 314
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2682ae6e630f964088ce62cb351f162
+      internalID: 476941010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 314
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6aadbb1921a2249a0f9456f6fc9a8e
+      internalID: 237685179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 314
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6a3576cc9e1fc4fbab5d7a54336731
+      internalID: -1640722970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 306
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48deb3b082283438c4fd5b28054913
+      internalID: 108104566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 297
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52066f280ecba748a10a1a4d2def04b
+      internalID: 806528252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_51
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 295
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7700de6f3cd2d04439e2372d5238c803
+      internalID: -396709286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 295
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cf593e92480a843b7c011f2c199f55
+      internalID: -517321940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_53
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 306
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b11addfda05eb4e9d79147b6750280
+      internalID: -963200836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_54
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 311
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8170b456c757a442bfd0698e2e68595
+      internalID: 2121914016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_55
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 311
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed7c1265cbc8d438f04e800d5e7270
+      internalID: 1615857616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_56
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 311
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227c17c29c0b3147b6a1f32e6f0585b
+      internalID: 5816082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 302
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293421329edeb82408a84bea3794d5e6
+      internalID: 726391432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_58
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 301
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8952130c1fcfd6f4395aa92699e1d20c
+      internalID: 1991830519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_59
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 305
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e227af94cd7a4d8f7e7cc50f87c2c
+      internalID: 2092115701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_60
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 310
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0af8f809ff8f48b7ac6499831bcaf
+      internalID: 1980157933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca29c3bed54e754992377e0b60d764e
+      internalID: -1781463348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d5feb5971dfb441bffefe9af8e4365
+      internalID: -335847097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 274
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b7eabd39197041b8ddefa2193338e
+      internalID: -2140584563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 274
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea4ad38504ac14b9d95cd0236fee55
+      internalID: -974659116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc808dac7920241ab1f30a00783de8
+      internalID: -1241242585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 274
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd03b2b11be5c74a864e29a9ad71121
+      internalID: 791075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 274
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a49d9919a1f78e4591df948e2d5d43f
+      internalID: 1737267096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_68
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8864b6e7f9ba84343b7eb004b07865dc
+      internalID: -1787842093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 274
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036d2e7963f7dc4ab1042c3cb92181f
+      internalID: 1190979554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 274
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40689c911f1f724cbeb70e5b4b93e7c
+      internalID: -2093473899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 274
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb308d69a41f2547b599436e1b5c461
+      internalID: -1282655779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_72
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 274
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7e158365d07224bac7661e058c1500
+      internalID: 1257513174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_73
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 274
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a55c5c35cfb6648a22db00177bc041
+      internalID: -1244221681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 274
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bdcebe985c1648a5bff753e9430ad
+      internalID: 1687826028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 274
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e13f9e26c069040af0bd2fcff49a4d
+      internalID: 222553048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 274
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a81882fd4329c48a8db29b22ff548d
+      internalID: 1482060908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_77
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 274
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8c668e94f6e184e9f161008814c2ae
+      internalID: -492800572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_78
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 274
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc9a21d7165f6946aac1faa45c07034
+      internalID: -679100637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_79
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 274
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3163f63bee9ca6459c061cb6265e0ac
+      internalID: 840838640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 274
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0987632cc8b4946be5ce6236c6b061
+      internalID: 1510568785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_81
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 274
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e47105ba60b3ad43b40acf43fccb8e5
+      internalID: 1336248639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_82
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 235
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57606b33e652e87499a05fe5056820f3
+      internalID: 2041142354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 235
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1ab3ebcb7b4b41891ca11ad4888e1
+      internalID: 806301810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_84
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42993616c1f9d04cb7a2c86e84f79b0
+      internalID: 1424196957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_85
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 234
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90e1b51ddb54b24ab8077fa682f4c3b
+      internalID: -242273498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 234
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9237856f317c904d8c354665e24236a
+      internalID: -120731624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_87
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 234
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dabc7cbad8f51541a1fbdb8329fca99
+      internalID: 5584292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 234
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59052cc45d31444a90aa15bd85cb7d
+      internalID: 1592987368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b35abecca910e4eb06518fd9cd3aee
+      internalID: 1337150666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdefae57277a941a75412826327c97
+      internalID: -2062020321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_91
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 234
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643553785d04aa444b4d6d007a5b682f
+      internalID: -875004792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_92
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 234
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fed419b84f3448bdc37341575be41
+      internalID: -1851454926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_93
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 234
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec42a0859c0e85d4c965e20ef14416ce
+      internalID: 431775868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_94
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 234
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1c6ae4b8a85b4399f5c7c9213814d
+      internalID: 294703595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 234
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a2e28849b3a144accd5892a572a8d
+      internalID: 1925022165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_96
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 234
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0167731ea99719644b31fa5b012d0944
+      internalID: -1476634898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_97
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 234
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf9bb7d5c4c7140a11efa0e7143009
+      internalID: -762752731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_98
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 234
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ded1b8d41cfa41803ade2deffd74c
+      internalID: -452618116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 234
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e70aa0109542924199366b63a66cd40
+      internalID: -808381452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc973ca5fdf83d4eae5f4d4b736e81f
+      internalID: -782713049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_101
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a9aab571760df45a277a6120c11a31
+      internalID: 1441250896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_102
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 239
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e00cb1a6719b4385445ac4e444f4e
+      internalID: 1485408941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_103
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 228
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d375edd39babf142a6ccccaa4b6b6cf
+      internalID: 611124863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_104
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 231
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9ccd5b128fec48b354c8955d516ad
+      internalID: -849037113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_105
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 228
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553624cbfc98eb4eb621937c0192551
+      internalID: 1012495538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 229
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916890732d481a4eb898fb0dbc8bdf8
+      internalID: -1718325011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_107
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5033110dd0945b04aa8f8b0605e5138f
+      internalID: -1434644946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_108
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0d1eafa5f140a42b8ef6a2588a41f3
+      internalID: -470758650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_109
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 221
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e12e6ec43f89349a6cd29d0dd4007a
+      internalID: 778595572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_110
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3738b4254abb8141a6287238ead189e
+      internalID: -1253286561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_111
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 229
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b84266e095d664f930561228261442
+      internalID: 2135752478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_112
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 229
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160aaf86d9f5c894b921f97ec380f965
+      internalID: 1366335507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_113
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 229
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f224ddb3b7e5a4cb7dfa5de2f358be
+      internalID: -143513876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_114
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 229
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b9fff0bf685942a29bdb2c34cb0d8
+      internalID: 484901330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 201
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc337bba1cbb0a1438d7d47a46d7e71d
+      internalID: -1501511957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_116
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 201
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3270ee1415c154db274357148eb042
+      internalID: 1821090270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 201
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072065f13f142c344b46949ca3d9afa7
+      internalID: 1396605069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_118
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 202
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2daa56718e76d499410ec3f96367bc
+      internalID: -495415597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_119
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 202
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307bd51309f4a9745b2bc25a597718ae
+      internalID: -1007668365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_120
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 222
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a9e7ba6cd79b429a72b09ab2b555a
+      internalID: 1782994210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 194
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d817efcde3f5ac4e88ba7b9ff3f4523
+      internalID: -81643796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_122
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 194
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad50efcae7d934b8d98d959de27b67
+      internalID: -2087581987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_123
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 194
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc7c6275d7ce44b90f7a0da15e0e2d
+      internalID: -334027153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_124
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c25bec3ad5c4ef4989510cda42118bf
+      internalID: -211653085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafcfb1bcff172d49b76d4053c689997
+      internalID: -825744666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_126
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 201
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7041df014cc052439c2951b1da781bc
+      internalID: 1591845913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_127
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fd1e08d4ec8da47b462bacaf04b9ae
+      internalID: -1949297452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_128
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee50a47505bb7a46976b143d42e623c
+      internalID: 1023051395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_129
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a924e22481f3f4badb074ed2b4cf3b
+      internalID: -956941435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_130
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 213
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a5595f97bf1242bd9b371bb5e34be
+      internalID: -1619991416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_131
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 200
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15801fb24715704bb6805d3a079a36a
+      internalID: -999862135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_132
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585d24b98bf6dc40abbc62967ee69ae
+      internalID: 650512589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_133
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 202
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f88cd1d5d4d6c43b5209f8c0486642
+      internalID: -785812944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_134
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 189
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a37fb3eb5edb44b0824e26fb79a28
+      internalID: 1126241400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_135
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 190
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7aae9a7c8a83458f7e5bc73d916e6
+      internalID: 1081010976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_136
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da323edc5e976469d6b5ee0d8d029d
+      internalID: 160791838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_137
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 200
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4970f0200dea91545a6a2dd0bb98a764
+      internalID: -555316394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_138
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 191
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a139189af384b6e4dba5a68f47cc9600
+      internalID: -700563120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_139
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 178
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72048b70bb27484c8313183f8357570
+      internalID: -1214151542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_140
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 178
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af7da1d8327b84da9782823cd482e8
+      internalID: 1983287394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_141
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 178
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b04e52d3640de04d8528196761d45c4
+      internalID: 1454423875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_142
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 178
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deca63c83b4617546b967cf5367537a7
+      internalID: -1177793257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 172
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997625dfda7e7b44ab87f6dfa0097a4
+      internalID: 784315010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_144
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 169
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cf02bf90fc0448bb7ae04f550f1e5
+      internalID: -974981411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_145
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 178
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3650be51c6377409a0278045c88bd2
+      internalID: -1432657775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_146
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bf2546119cbe342be853d1d1c6797c
+      internalID: 1612094825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_147
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d8d01921300641adf8ca968f6cd3f
+      internalID: -1000545206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_148
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 162
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4891532b15a54285231cb1d0fff4b
+      internalID: -530160412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 162
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc278a00b12ffc4b9a6f3a0345ffe43
+      internalID: -899329215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ac021c216ae14ba5361d3b3639408
+      internalID: -920744431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_151
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf715f10f405440892dbfe176a67a8
+      internalID: -1329360546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 162
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f499d4c133d14a814a66525aeb4c0
+      internalID: -155307653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_153
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 162
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c0ba7e7af2634cb2544fa63de2318
+      internalID: -14193774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_154
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4281e3a172ebe4c809a392e5baaf9e
+      internalID: 1046177583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968fbc9ede9383e4a990e2a5a3664a3c
+      internalID: 751873120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_156
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b032fbfa80d68e4e8eb7273a5a7816e
+      internalID: -1562326792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_157
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de930cfa7f44164688130e3097fea53
+      internalID: 579085188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_158
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343e5807dbc5a59459e02998e336d173
+      internalID: 1159826149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_159
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b126ef31c957e9a4d96089997717c720
+      internalID: -663464635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_160
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab8865c50d6a194e904fa2ac8be4ed2
+      internalID: 1998143175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_161
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc29963d29e04b4a8ea95194366acc1
+      internalID: -2019884984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_162
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d474320937584458ed1331474a89dc
+      internalID: 1765256563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_163
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 161
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f55b39cdb8620441bd45ac946b3bb6a
+      internalID: 1716083136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_164
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 128
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5dd21df1ddfae4ea6bab43629b41ba
+      internalID: -987798166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_165
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6466defd03544988fee46009dbdca
+      internalID: -1098410669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e5831945b37814bb942c82a864dc44
+      internalID: -1683134856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_167
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6888224d45c954588878e5e81d97f6
+      internalID: -667800418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_168
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8463a8cbd7315e4cb9b54d600235dec
+      internalID: -1932723020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_169
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 132
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8349c60374dcb40aca4372f11e3ea7
+      internalID: -62476828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_170
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 132
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9508c9974d6c338419e660ade7c04ca3
+      internalID: 1509639010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_171
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 132
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc847c49190644e9a7d95826ee8591
+      internalID: 257028161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_172
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d187cd6b8bce33a4b9270528095b242b
+      internalID: -2131476786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d417aa5f8ee7795479890fe953f40904
+      internalID: -1532291097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_174
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f62bbb4e0e2d4cbc3fa2aaa2a1394
+      internalID: -56723348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_175
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962eadad687e2d4b8ac6c1a0ab67351
+      internalID: 1355297016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_176
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5631386c09c7c94ebea765611c78776
+      internalID: -132726711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_177
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9840e212d4dd14597b57beae967cf3
+      internalID: -1903062182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_178
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 126
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786eb961518a8c4f826a819f92c010a
+      internalID: -915957380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_179
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7561acf0bf4a14d8c4c8ac265fcdaf
+      internalID: 728266288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_180
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfb9ed9a7be8e34f86e38ecfdcd39af
+      internalID: 986035469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_181
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e29b0ee4943bdb499a181f532d4a104
+      internalID: 1001541580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_182
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6078600fdca8fe641a2f47d7e8f4572d
+      internalID: 68815168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_183
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 127
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0792c92b18bc0e341a7d72dab0353624
+      internalID: -1632867673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_184
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47672af802ed09741af9d261edcc7851
+      internalID: -317808625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_185
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 126
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff83b1f1a5f2f8a49b3a770a4427efd6
+      internalID: -436408712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_186
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 126
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbc0f83b879bc64d81c4051c78bedca
+      internalID: -1542066340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_187
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 128
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8962aabc1e81f8e42a310af86991f034
+      internalID: 187625325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_188
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 128
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5de962c8430584d9bd55e52bd15b11
+      internalID: -2048245766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_189
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1377238f2288bc4b84d1e4da50b847d
+      internalID: 588156454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_190
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 128
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df3b906f6c9dfe4a89167c51524b756
+      internalID: -1625140646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_191
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 128
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6452f55b5dcb4aaba08f4b5b26532
+      internalID: -627606829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ee24df0774650439c8ea54c1e8b5ae
+      internalID: -1214955246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_193
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939c9cf55a0be6449e06e21b273e319
+      internalID: 1647638836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_194
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536587dc98abbd44580e33482779458b
+      internalID: -329523509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_195
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ae4e259aa7a8409ee9fd8207ec2a8
+      internalID: -1072070496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_196
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7b29bc996cbb439e9696b927318dc
+      internalID: -1762321261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_197
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 99
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417bea6d89d19b4d9457790b35c8029
+      internalID: 421400449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_198
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 99
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88f3141f9dac14f9d54fd2a85db3c9
+      internalID: 1791703236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_199
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 99
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd173d8f2c4c13b44b7e5dde670643c3
+      internalID: -1752669364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 99
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a380245aeb5c0d4985de0c26addfa25
+      internalID: -1251319960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 98
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3e65a8b313fb43a12be5393451681
+      internalID: -623566934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc92be027aa79049aeb32fccc02b9e8
+      internalID: -401071109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_203
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 98
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b17f76d905014e879f663a4817c00
+      internalID: -380883372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_204
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 100
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5e2c22a2232148bfe313936492d16
+      internalID: -1239771436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_205
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 88
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3388609a02aba0542a91dc50a3c64c9a
+      internalID: 1394591855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_206
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 86
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafe131cbdcff647ab00978233a89fd
+      internalID: -1713059456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_207
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 80
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894fb9ff17446fd47badc548e64fc83b
+      internalID: -430498956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_208
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 79
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f903d3b8a919b4291cd00196f13a7f
+      internalID: 53818057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_209
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 80
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94425aaeb73bbb4fa793270e73a372b
+      internalID: -1691829980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_210
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 82
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79186d5a154b46342ab35d60d2cc58ba
+      internalID: -945308035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_211
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 80
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a95f779a091a5c4a904c3f7edefd1a0
+      internalID: -613385250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_212
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0effed021c01f804e852a852629146cf
+      internalID: 537170273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_213
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb141534b125ab04f835f9c331b57f17
+      internalID: 970626252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_214
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cdbb7cd88ff864ea7a473295e7bb2b
+      internalID: 994553928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_215
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e6d81351ede1942b15df17fbcc227d
+      internalID: -308767140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_216
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 63
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99850b2b9ba11a47a341588c9cfd747
+      internalID: 1863178277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_217
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 63
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a0477db4091c945b31af911b9cc5ea
+      internalID: 1814765139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_218
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320af69c908234245889a1cf5b15d5bc
+      internalID: 1338446306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_219
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc277992b3563fc41a7139f7dc82adb8
+      internalID: 1716531650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_220
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 63
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb02248e39ae6d4a9768f530621e5f2
+      internalID: 1481865469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_221
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 63
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca13ea68463a9f4f875bd97b32b175b
+      internalID: 2106488391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_222
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 63
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9d9acf10f4d8f49968d84d25dcb881
+      internalID: 1556528846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_223
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 63
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bffb2d89e9aa74282f849e2305ca16
+      internalID: -2029383141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_224
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e64539610d89e4e886af92f90fe006
+      internalID: 1171255755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_225
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 63
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51095ed3649db3b4eb8af0a02dd83dae
+      internalID: -813956733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_226
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 53
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e8e8fab8beb94db6189eb73d0da02
+      internalID: 2034638076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_227
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 63
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b67c472d8ea3f40a1578760a0d8a5e
+      internalID: -794090181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_228
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb025e180771b4d97cdbef54fe4774
+      internalID: 1881520862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_229
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69905c5ec0be29b4da27fb6c9247aa90
+      internalID: 356166322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_230
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 28
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56053ae556959c24ba5c8d4f5d4ca50c
+      internalID: 335835270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_231
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00864f588b83c6f4d88054997f9f0bc4
+      internalID: 2012230310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_232
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23633ac97ae4a6f4cb2ce8d3d61010df
+      internalID: 649750556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_233
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6ef7952a951d54281169cc51df39b3
+      internalID: -1288343957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_234
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 28
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a89ae4f10899a4298d4d33d9366d54
+      internalID: -1072300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_235
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 28
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ea76fe680e5b41b7b709868942fd3
+      internalID: -703094983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_236
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 34
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5687d068a7baed44821aad622396b79
+      internalID: 1689294375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_237
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc878660fcb224685dc2e0a2543d4b
+      internalID: 1715946186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_238
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c13bf0102d58b9448709478cdbdc8c9
+      internalID: -1115557559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_239
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3135f4a52ab3094da5f42cf8f458a96
+      internalID: -26671750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_240
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 34
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d5c7dc92b61b4bbcaa7bb8ba4d544
+      internalID: -1530417385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_241
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 34
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5146a37b54c1d04d96688c6104c9d94
+      internalID: -1501360656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_242
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662e2e5914296b4789360eaacc04a8d
+      internalID: 2021702896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_243
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f950cbef658a4e964b714374d3b44
+      internalID: 858850886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_244
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 29
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810a0be1cc92bb45b8d5123a6817a32
+      internalID: 1174378381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_245
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 34
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33563c739382b894aa3c732bc1a188a5
+      internalID: 1543522512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_246
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 34
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae54e17d68e0b94ab7b99e02f715ec6
+      internalID: -746084508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_247
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b4a55b82ac6cf43817e6009d7ee49c
+      internalID: 987391332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_248
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 34
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0966f0e9eb5447a078a329ebd037f
+      internalID: -1311625371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_249
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ed43af216b564ab1a51b61771c6a0
+      internalID: -1607991303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Link-LTTP_250
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 34
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f4d4dcd0142843b549e5f0dbc8620
+      internalID: -1922990408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Link-LTTP_0: -1480019493
+      Link-LTTP_1: -1891330968
+      Link-LTTP_10: -909957645
+      Link-LTTP_100: -782713049
+      Link-LTTP_101: 1441250896
+      Link-LTTP_102: 1485408941
+      Link-LTTP_103: 611124863
+      Link-LTTP_104: -849037113
+      Link-LTTP_105: 1012495538
+      Link-LTTP_106: -1718325011
+      Link-LTTP_107: -1434644946
+      Link-LTTP_108: -470758650
+      Link-LTTP_109: 778595572
+      Link-LTTP_11: -1811899120
+      Link-LTTP_110: -1253286561
+      Link-LTTP_111: 2135752478
+      Link-LTTP_112: 1366335507
+      Link-LTTP_113: -143513876
+      Link-LTTP_114: 484901330
+      Link-LTTP_115: -1501511957
+      Link-LTTP_116: 1821090270
+      Link-LTTP_117: 1396605069
+      Link-LTTP_118: -495415597
+      Link-LTTP_119: -1007668365
+      Link-LTTP_12: -210768926
+      Link-LTTP_120: 1782994210
+      Link-LTTP_121: -81643796
+      Link-LTTP_122: -2087581987
+      Link-LTTP_123: -334027153
+      Link-LTTP_124: -211653085
+      Link-LTTP_125: -825744666
+      Link-LTTP_126: 1591845913
+      Link-LTTP_127: -1949297452
+      Link-LTTP_128: 1023051395
+      Link-LTTP_129: -956941435
+      Link-LTTP_13: 1760029443
+      Link-LTTP_130: -1619991416
+      Link-LTTP_131: -999862135
+      Link-LTTP_132: 650512589
+      Link-LTTP_133: -785812944
+      Link-LTTP_134: 1126241400
+      Link-LTTP_135: 1081010976
+      Link-LTTP_136: 160791838
+      Link-LTTP_137: -555316394
+      Link-LTTP_138: -700563120
+      Link-LTTP_139: -1214151542
+      Link-LTTP_14: -1579077350
+      Link-LTTP_140: 1983287394
+      Link-LTTP_141: 1454423875
+      Link-LTTP_142: -1177793257
+      Link-LTTP_143: 784315010
+      Link-LTTP_144: -974981411
+      Link-LTTP_145: -1432657775
+      Link-LTTP_146: 1612094825
+      Link-LTTP_147: -1000545206
+      Link-LTTP_148: -530160412
+      Link-LTTP_149: -899329215
+      Link-LTTP_15: 2097403844
+      Link-LTTP_150: -920744431
+      Link-LTTP_151: -1329360546
+      Link-LTTP_152: -155307653
+      Link-LTTP_153: -14193774
+      Link-LTTP_154: 1046177583
+      Link-LTTP_155: 751873120
+      Link-LTTP_156: -1562326792
+      Link-LTTP_157: 579085188
+      Link-LTTP_158: 1159826149
+      Link-LTTP_159: -663464635
+      Link-LTTP_16: 1570316550
+      Link-LTTP_160: 1998143175
+      Link-LTTP_161: -2019884984
+      Link-LTTP_162: 1765256563
+      Link-LTTP_163: 1716083136
+      Link-LTTP_164: -987798166
+      Link-LTTP_165: -1098410669
+      Link-LTTP_166: -1683134856
+      Link-LTTP_167: -667800418
+      Link-LTTP_168: -1932723020
+      Link-LTTP_169: -62476828
+      Link-LTTP_17: -1712317758
+      Link-LTTP_170: 1509639010
+      Link-LTTP_171: 257028161
+      Link-LTTP_172: -2131476786
+      Link-LTTP_173: -1532291097
+      Link-LTTP_174: -56723348
+      Link-LTTP_175: 1355297016
+      Link-LTTP_176: -132726711
+      Link-LTTP_177: -1903062182
+      Link-LTTP_178: -915957380
+      Link-LTTP_179: 728266288
+      Link-LTTP_18: -646299056
+      Link-LTTP_180: 986035469
+      Link-LTTP_181: 1001541580
+      Link-LTTP_182: 68815168
+      Link-LTTP_183: -1632867673
+      Link-LTTP_184: -317808625
+      Link-LTTP_185: -436408712
+      Link-LTTP_186: -1542066340
+      Link-LTTP_187: 187625325
+      Link-LTTP_188: -2048245766
+      Link-LTTP_189: 588156454
+      Link-LTTP_19: -954680069
+      Link-LTTP_190: -1625140646
+      Link-LTTP_191: -627606829
+      Link-LTTP_192: -1214955246
+      Link-LTTP_193: 1647638836
+      Link-LTTP_194: -329523509
+      Link-LTTP_195: -1072070496
+      Link-LTTP_196: -1762321261
+      Link-LTTP_197: 421400449
+      Link-LTTP_198: 1791703236
+      Link-LTTP_199: -1752669364
+      Link-LTTP_2: -611626517
+      Link-LTTP_20: -1776425258
+      Link-LTTP_200: -1251319960
+      Link-LTTP_201: -623566934
+      Link-LTTP_202: -401071109
+      Link-LTTP_203: -380883372
+      Link-LTTP_204: -1239771436
+      Link-LTTP_205: 1394591855
+      Link-LTTP_206: -1713059456
+      Link-LTTP_207: -430498956
+      Link-LTTP_208: 53818057
+      Link-LTTP_209: -1691829980
+      Link-LTTP_21: -1466397029
+      Link-LTTP_210: -945308035
+      Link-LTTP_211: -613385250
+      Link-LTTP_212: 537170273
+      Link-LTTP_213: 970626252
+      Link-LTTP_214: 994553928
+      Link-LTTP_215: -308767140
+      Link-LTTP_216: 1863178277
+      Link-LTTP_217: 1814765139
+      Link-LTTP_218: 1338446306
+      Link-LTTP_219: 1716531650
+      Link-LTTP_22: -700407282
+      Link-LTTP_220: 1481865469
+      Link-LTTP_221: 2106488391
+      Link-LTTP_222: 1556528846
+      Link-LTTP_223: -2029383141
+      Link-LTTP_224: 1171255755
+      Link-LTTP_225: -813956733
+      Link-LTTP_226: 2034638076
+      Link-LTTP_227: -794090181
+      Link-LTTP_228: 1881520862
+      Link-LTTP_229: 356166322
+      Link-LTTP_23: -1671051580
+      Link-LTTP_230: 335835270
+      Link-LTTP_231: 2012230310
+      Link-LTTP_232: 649750556
+      Link-LTTP_233: -1288343957
+      Link-LTTP_234: -1072300788
+      Link-LTTP_235: -703094983
+      Link-LTTP_236: 1689294375
+      Link-LTTP_237: 1715946186
+      Link-LTTP_238: -1115557559
+      Link-LTTP_239: -26671750
+      Link-LTTP_24: 1655474749
+      Link-LTTP_240: -1530417385
+      Link-LTTP_241: -1501360656
+      Link-LTTP_242: 2021702896
+      Link-LTTP_243: 858850886
+      Link-LTTP_244: 1174378381
+      Link-LTTP_245: 1543522512
+      Link-LTTP_246: -746084508
+      Link-LTTP_247: 987391332
+      Link-LTTP_248: -1311625371
+      Link-LTTP_249: -1607991303
+      Link-LTTP_25: 913381514
+      Link-LTTP_250: -1922990408
+      Link-LTTP_26: 1726988724
+      Link-LTTP_27: -911789997
+      Link-LTTP_28: 985073888
+      Link-LTTP_29: 160848461
+      Link-LTTP_3: -1731448750
+      Link-LTTP_30: -1672953333
+      Link-LTTP_31: 1650449675
+      Link-LTTP_32: -370853776
+      Link-LTTP_33: 1418072656
+      Link-LTTP_34: 1789287399
+      Link-LTTP_35: -1458027003
+      Link-LTTP_36: 1280963365
+      Link-LTTP_37: -1144236772
+      Link-LTTP_38: -1749880663
+      Link-LTTP_39: -347079824
+      Link-LTTP_4: -2073164632
+      Link-LTTP_40: -797840764
+      Link-LTTP_41: 645126094
+      Link-LTTP_42: -963227991
+      Link-LTTP_43: -457253257
+      Link-LTTP_44: 984912684
+      Link-LTTP_45: 1039739580
+      Link-LTTP_46: 476941010
+      Link-LTTP_47: 237685179
+      Link-LTTP_48: -1640722970
+      Link-LTTP_49: 108104566
+      Link-LTTP_5: 1058195098
+      Link-LTTP_50: 806528252
+      Link-LTTP_51: -396709286
+      Link-LTTP_52: -517321940
+      Link-LTTP_53: -963200836
+      Link-LTTP_54: 2121914016
+      Link-LTTP_55: 1615857616
+      Link-LTTP_56: 5816082
+      Link-LTTP_57: 726391432
+      Link-LTTP_58: 1991830519
+      Link-LTTP_59: 2092115701
+      Link-LTTP_6: -33070497
+      Link-LTTP_60: 1980157933
+      Link-LTTP_61: -1781463348
+      Link-LTTP_62: -335847097
+      Link-LTTP_63: -2140584563
+      Link-LTTP_64: -974659116
+      Link-LTTP_65: -1241242585
+      Link-LTTP_66: 791075259
+      Link-LTTP_67: 1737267096
+      Link-LTTP_68: -1787842093
+      Link-LTTP_69: 1190979554
+      Link-LTTP_7: 1568285670
+      Link-LTTP_70: -2093473899
+      Link-LTTP_71: -1282655779
+      Link-LTTP_72: 1257513174
+      Link-LTTP_73: -1244221681
+      Link-LTTP_74: 1687826028
+      Link-LTTP_75: 222553048
+      Link-LTTP_76: 1482060908
+      Link-LTTP_77: -492800572
+      Link-LTTP_78: -679100637
+      Link-LTTP_79: 840838640
+      Link-LTTP_8: 1371432147
+      Link-LTTP_80: 1510568785
+      Link-LTTP_81: 1336248639
+      Link-LTTP_82: 2041142354
+      Link-LTTP_83: 806301810
+      Link-LTTP_84: 1424196957
+      Link-LTTP_85: -242273498
+      Link-LTTP_86: -120731624
+      Link-LTTP_87: 5584292
+      Link-LTTP_88: 1592987368
+      Link-LTTP_89: 1337150666
+      Link-LTTP_9: 913609413
+      Link-LTTP_90: -2062020321
+      Link-LTTP_91: -875004792
+      Link-LTTP_92: -1851454926
+      Link-LTTP_93: 431775868
+      Link-LTTP_94: 294703595
+      Link-LTTP_95: 1925022165
+      Link-LTTP_96: -1476634898
+      Link-LTTP_97: -762752731
+      Link-LTTP_98: -452618116
+      Link-LTTP_99: -808381452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
